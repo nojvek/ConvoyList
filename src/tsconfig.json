@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es3",
+        "jsx": "react",
+        "jsxFactory": "h",
+        "moduleResolution": "node",
+        "outFile": "../www/app.js",
+        "types": []
+    }
+}

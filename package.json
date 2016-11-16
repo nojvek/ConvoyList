@@ -1,0 +1,21 @@
+{
+  "name": "convoy_list",
+  "version": "1.0.0",
+  "description": "Convoy TodoList Interview app",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nojvek/ConvoyList.git"
+  },
+  "author": "nojvek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nojvek/ConvoyList/issues"
+  },
+  "homepage": "https://github.com/nojvek/ConvoyList#readme",
+  "devDependencies": {
+    "preact": "^6.4.0",
+    "typestyle": "^0.7.3"
+  }
+}
